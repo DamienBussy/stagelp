@@ -1,0 +1,62 @@
+{
+	"success": true,
+	"commande": [
+		{
+			"commandeId": "123",
+			"centreProfitCode": "code1",
+			"centreProfitLibelle": "centre1",
+			"dateLivraison": "2022-06-06",
+			"montantHT": 70.570,
+			"fournisseurCode": "123",
+			"fournisseurLibelle": "test",
+			"fournisseurAvoirPrix": 1,
+			"articles": [
+				{
+					"quantiteCommandee": 10.0,
+					"familleN2Code": "f2",
+					"uniteCommande": "unite1",
+					"conditionStockageCode": "Code",
+					"familleN2Libelle": "famille2",
+					"familleN3Code": "f3",
+					"familleN1Libelle": "famille1",
+					"familleN3Libelle": "famille3",
+					"familleN1Code": "f1",
+					"conditionStockageLibelle": "test",
+					"articleCode": "a1",
+					"prixAchatHT": 0.560,
+					"articleLibelle": "article1"
+				},
+				{
+					"quantiteCommandee": 17.0,
+					"familleN2Code": "f5",
+					"uniteCommande": "unite2",
+					"conditionStockageCode": "Code",
+					"familleN2Libelle": "famille5",
+					"familleN3Code": "famille6",
+					"familleN1Libelle": "famille4",
+					"familleN3Libelle": "famille6",
+					"familleN1Code": "f4",
+					"conditionStockageLibelle": "test",
+					"articleCode": "a2",
+					"prixAchatHT": 0.870,
+					"articleLibelle": "article2"
+				},
+				{
+					"quantiteCommandee": 6.0,
+					"familleN2Code": "f8",
+					"uniteCommande": "unite3",
+					"conditionStockageCode": "Code",
+					"familleN2Libelle": "famille8",
+					"familleN3Code": "famille9",
+					"familleN1Libelle": "famille7",
+					"familleN3Libelle": "famille9",
+					"familleN1Code": "f7",
+					"conditionStockageLibelle": "test",
+					"articleCode": "a3",
+					"prixAchatHT": 0.370,
+					"articleLibelle": "article3"
+				}	
+			]
+		}
+	]
+}

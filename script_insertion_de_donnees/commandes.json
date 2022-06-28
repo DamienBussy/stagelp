@@ -4,7 +4,7 @@
 		{
 			"commandeId": "123",
 			"centreProfitCode": "code1",
-			"centreProfitLibelle": "centre1",
+			"centreProfitLibelle": "CENTRE N°1",
 			"dateLivraison": "2022-06-06",
 			"montantHT": 70.570,
 			"fournisseurCode": "123",
